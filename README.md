@@ -1,6 +1,6 @@
 # Kombucha
 
-##Here's a link to [photos of the process](https://photos.app.goo.gl/85OuAtGE50PIvdwS2) 
+## Here's a link to [photos of the process](https://photos.app.goo.gl/85OuAtGE50PIvdwS2) 
 
 ## Everything we learned is from:
 * [Reddit Kombucha sub](https://www.reddit.com/r/Kombucha/)

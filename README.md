@@ -1,21 +1,20 @@
-# kombucha
+# Kombucha
 
-Here's a link to photo of the process over the last year: 
-https://photos.app.goo.gl/85OuAtGE50PIvdwS2
+##Here's a link to [photos of the process](https://photos.app.goo.gl/85OuAtGE50PIvdwS2) 
 
-Everything we learned is from:
+## Everything we learned is from:
 * [Reddit Kombucha sub](https://www.reddit.com/r/Kombucha/)
 * [Reddit Kombucha master recipe](https://www.reddit.com/r/Kombucha/comments/5b1ztm/reddit_master_kombucha_recipe/)
 * Trial and error
 
-Our choices derive from our goals (your goals may be different):
+## Our choices derive from our goals (your goals may be different):
 * Taste good to everyone in the family
 * Replace beer for health and financial reasons
 * Replace kids' store-bought probiotic supplement
 * Operate as close to zero-cost as possible
 * Spend as little time as possible brewing tea and bottling fermented tea
 
-Tactics:
+## Tactics:
 * Get a starter kit (a few cups of unflavored fermented tea and a pellicle) from a friend 
 * Get free tea from people who have a closet full they've never used in years
 * Use herbal tea (not a great food source for the fermenting process) and black tea in 50/50 split because people have *lots* of herbal tea they don't use

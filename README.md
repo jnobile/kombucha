@@ -22,7 +22,7 @@
 * Use one gallon pickle jars (free from local deli) for fermenting
 * Brew sweet tea and then let it sit in a towel-covered pot for  24 hours before bottling. This let's it cool off to room temperature and and let's most of the city-water chlorine evaporate off (deadly to the active culture).
 * Flavor the second fermentation with some combination of ginger root blended to paste, passion fruit concentrate, mint leaves, pureed fruit, rosemary, etc. These are things that taste good and we can get cheap or free. We strain the kombucha before drinking
-* ALWAYS refrigerate the bottled kombucha before opening!! We usually leave bottled kombucha out on the counter at room temperature for at least a week before drinking in order to get really carbonated and infuse as much of the flavoring from ginger, etc as possible. As a result, they can be explosive if opened at room temperature but cooling them increases the amount of CO2 the liquid can hold before saturating.
+* ALWAYS refrigerate the bottled kombucha before opening!! We usually leave bottled kombucha out on the counter at room temperature for at least a week before drinking in order to get really carbonated and infuse as much of the flavoring from ginger, etc as possible. As a result, they can be explosive if opened at room temperature but cooling them increases the amount of CO<sub>2</sub> the liquid can hold before saturating.
 * We brew four gallons every 2/3 weeks
 
 I'm always looking for ways to tweak the process to better align with our goals, so if you get going and find things that work well, do share!
